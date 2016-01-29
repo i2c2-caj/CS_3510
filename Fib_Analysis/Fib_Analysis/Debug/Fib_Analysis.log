@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Fib_Analysis.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  factor.cpp
+c:\users\i2c2c\programming\github\cs_3510\fib_analysis\fib_analysis\factor.cpp(57): warning C4244: 'initializing': conversion from 'double' to 'unsigned __int64', possible loss of data
+  Fib_Analysis.vcxproj -> C:\Users\i2c2c\Programming\Github\CS_3510\Fib_Analysis\Debug\Program_Analysis.exe
